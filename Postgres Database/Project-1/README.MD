@@ -11,11 +11,26 @@
 ---
 ### Solved problems:
 ##### Medium(Basic)
-* First item
-* Second item
+* [Weather observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true
+SELECT)
+* [Weather observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true
+SELECT)
+
+points = 2
+
 
 ##### Medium(Basic)
-* First item
-* Second item
+* [Binary Tree Nodes]()
+* [Contest Leaderboard]()
+* [New Companies]()
+* [Ollivander's Inventory]()
+* [Placments]()
+* [Symmetric Pairs]()
+* [The Report]()
+* [Top Competitors]()
+* [Weather observation Station 20]
 
+points = 18
+
+Total points = 20
 
