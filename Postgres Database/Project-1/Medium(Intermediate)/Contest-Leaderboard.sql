@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true
+-- https://www.hackerrank.com/challenges/contest-leaderboard/problem
 SELECT
     hacker_id,
     name,

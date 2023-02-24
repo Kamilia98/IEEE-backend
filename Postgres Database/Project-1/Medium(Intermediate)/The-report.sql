@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true
+-- https://www.hackerrank.com/challenges/the-report/problem
 SELECT
     IF(grade.grade >= 8, student.name, "NULL"),
     grade.grade,

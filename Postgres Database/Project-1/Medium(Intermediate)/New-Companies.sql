@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true
+-- https://www.hackerrank.com/challenges/the-company/problem
 
 SELECT
     company.company_code,

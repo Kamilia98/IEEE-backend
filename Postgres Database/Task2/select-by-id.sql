@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true
+-- https://www.hackerrank.com/challenges/select-by-id/problem
 SELECT
     *
 FROM

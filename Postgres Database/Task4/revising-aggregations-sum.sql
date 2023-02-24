@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true
+-- https://www.hackerrank.com/challenges/revising-aggregations-sum/problem
 SELECT
     SUM(POPULATION)
 FROM

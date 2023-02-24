@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true
+-- https://www.hackerrank.com/challenges/average-population/problem
 SELECT
     ROUND(AVG(POPULATION))
 FROM

@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true
+-- https://www.hackerrank.com/challenges/salary-of-employees/problem
 SELECT
     name
 FROM

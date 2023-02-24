@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true
+-- https://www.hackerrank.com/challenges/weather-observation-station-7/problem
 SELECT
     DISTINCT CITY
 FROM

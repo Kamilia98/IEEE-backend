@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
+-- https://www.hackerrank.com/challenges/revising-the-select-query/problem
 SELECT
     *
 FROM

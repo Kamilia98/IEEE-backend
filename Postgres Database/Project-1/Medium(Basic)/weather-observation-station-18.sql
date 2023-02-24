@@ -1,5 +1,5 @@
 
--- https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true
+-- https://www.hackerrank.com/challenges/weather-observation-station-18/problem
 SELECT
     MIN(LAT_N)
 FROM
