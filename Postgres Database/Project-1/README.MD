@@ -9,7 +9,7 @@
 | Medium(Advanced)       | 3      | 
 | Hard                   | 5      | 
 ...
-#### Solved problems:
+### Solved problems:
 ##### Medium(Basic)
 * First item
 * Second item
