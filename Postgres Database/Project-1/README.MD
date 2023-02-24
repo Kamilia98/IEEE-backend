@@ -10,14 +10,14 @@
 | Hard                   | 5      | 
 ---
 ### Solved problems:
-##### Medium(Basic)
+#### Medium(Basic)
 * [Weather observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)
 * [Weather observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)
 
 ##### Points = 2
 
 
-##### Medium(Basic)
+#### Medium(Basic)
 * [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)
 * [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)
 * [New Companies](https://www.hackerrank.com/challenges/the-company/problem)
@@ -28,7 +28,7 @@
 * [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)
 * [Weather observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)
 
-##### points = 18
+##### Points = 18
 
 ### Total points = 20
 
