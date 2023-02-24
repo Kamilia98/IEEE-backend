@@ -1,3 +1,5 @@
+-- https://www.hackerrank.com/challenges/harry-potter-and-wands/problem
+
 select
     w.id,
     p.age,

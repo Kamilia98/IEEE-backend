@@ -11,19 +11,17 @@
 ---
 ### Solved problems:
 ##### Medium(Basic)
-* [Weather observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true
-SELECT)
-* [Weather observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true
-SELECT)
+* [Weather observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)
+* [Weather observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)
 
 points = 2
 
 
 ##### Medium(Basic)
-* [Binary Tree Nodes]()
-* [Contest Leaderboard]()
-* [New Companies]()
-* [Ollivander's Inventory]()
+* [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)
+* [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)
+* [New Companies](https://www.hackerrank.com/challenges/the-company/problem)
+* [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)
 * [Placments]()
 * [Symmetric Pairs]()
 * [The Report]()
