@@ -17,7 +17,7 @@
 ##### Points = 2
 
 
-#### Medium(Basic)
+#### Medium(Intermediate)
 * [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)
 * [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)
 * [New Companies](https://www.hackerrank.com/challenges/the-company/problem)
