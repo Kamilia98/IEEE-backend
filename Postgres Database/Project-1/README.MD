@@ -8,7 +8,7 @@
 | Medium(Intermediate)   | 2      | 
 | Medium(Advanced)       | 3      | 
 | Hard                   | 5      | 
-...
+---
 ### Solved problems:
 ##### Medium(Basic)
 * First item
