@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=trueselect
+-- https://www.hackerrank.com/challenges/symmetric-pairs/problem
     f1.x,
     f1.y
 from

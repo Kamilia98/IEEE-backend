@@ -1,3 +1,5 @@
+-- https://www.hackerrank.com/challenges/placements/problem
+
 SELECT
     s.Name
 FROM

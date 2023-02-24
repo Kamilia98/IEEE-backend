@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/weather-observation-station-20/problem?
+-- https://www.hackerrank.com/challenges/weather-observation-station-20/problem
 
 SELECT
     CEIL(COUNT(*) / 2) 

@@ -14,7 +14,7 @@
 * [Weather observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)
 * [Weather observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)
 
-points = 2
+##### Points = 2
 
 
 ##### Medium(Basic)
@@ -22,13 +22,13 @@ points = 2
 * [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)
 * [New Companies](https://www.hackerrank.com/challenges/the-company/problem)
 * [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)
-* [Placments]()
-* [Symmetric Pairs]()
-* [The Report]()
-* [Top Competitors]()
-* [Weather observation Station 20]
+* [Placments](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true)
+* [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem)
+* [The Report](https://www.hackerrank.com/challenges/the-report/problem)
+* [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)
+* [Weather observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)
 
-points = 18
+##### points = 18
 
-Total points = 20
+### Total points = 20
 
