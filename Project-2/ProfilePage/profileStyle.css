@@ -1,0 +1,112 @@
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+}
+#main{
+    display:flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items:center;
+}
+#head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    padding-left: 10%;
+    background-color: #242526;
+    height: 7%;
+    position: fixed;
+    top: 1px;
+    border-radius: 5px;
+    width: 100%;
+}
+#search{
+    border-radius: 5px;
+    width: 50%;
+    height: 30px;
+    border: 1px solid #242526;
+    padding: 0px 5px 0px 5px;
+}
+#messenger{
+    width: 25px;
+    height: 25px;
+}
+#body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 0.5%;
+}
+#menu{
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#menu a{
+    color: white;
+    border-radius: 5px;
+    width: 100%;
+    padding: 15px ;
+    text-decoration: none;
+}
+#menu a:hover{
+    background-color: #242526;
+}
+#menu a:active{
+    width: 130%;
+}
+#center{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#center img{
+    width: 90%;
+    height: auto;
+}
+#friends{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#friends label{
+    width: 100%;
+    padding: 15px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+#friends label:hover{
+    background-color: #242526;
+}
+#foot{
+    display: flex ;
+    flex-direction: row;
+    color: white;
+    justify-content: space-evenly;
+    width: 100%;
+    position: fixed;
+    bottom: 2px;
+    border-radius: 5px;
+}
+#foot label{
+    background-color: #242526;
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+}
